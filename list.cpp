@@ -1,5 +1,3 @@
-/*A simple c++ program to implement a single linked list.
-By performing insertion at beginning ,position and end./*
 #include <iostream>
 using namespace std;
 //creation of linked list Node
