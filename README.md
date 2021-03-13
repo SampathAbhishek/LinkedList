@@ -5,6 +5,6 @@ And i have added few functions such as:
 2.Insertion at last
 3.Insertion at end
 4.Length of list
-5.Display 
+5.Display.
 The program can help one to thoroughly understand the working of singly linked list.
 i have also provide few sample inputs by default.
